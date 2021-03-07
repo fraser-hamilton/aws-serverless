@@ -1,7 +1,7 @@
 import boto3
 import json
 
-print('Loading function')
+print('Loading function, ok?')
 dynamo = boto3.client('dynamodb')
 
 
